@@ -1,4 +1,4 @@
-# Map Chooser
+# Simple Weapon Commands
 
 ---
 ## Description
